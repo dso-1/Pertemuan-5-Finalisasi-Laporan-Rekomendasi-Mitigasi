@@ -1,5 +1,13 @@
 # Pertemuan 5 — Finalisasi Laporan & Rekomendasi Mitigasi
 
+## Kumpulan Repository per pertemuan
+1. Peretmuan Pertama: https://github.com/dso-1/Pertemuan-1-Kickoff-Case-1-Vulnerability-OJS.git
+2. Pertemuan Kedua: https://github.com/dso-1/Pertemuan-2-Pemetaan-Attack-Surface-OJS.git
+3. Pertemuan ketiga: https://github.com/dso-1/Pertemuan-4-Analisis-OWASP-Risk-Scoring.git
+4. Pertemuan Keempat: https://github.com/dso-1/Pertemuan-4-Analisis-OWASP-Risk-Scoring.git
+5. Pertemuan Kelima [FINAL]: https://github.com/dso-1/Pertemuan-5-Finalisasi-Laporan-Rekomendasi-Mitigasi.git
+7. CI/CD: https://github.com/dso-1/project.git
+
 ## Tujuan Pembelajaran
 Setelah pertemuan ini, mahasiswa mampu:
 1. Menyusun laporan vulnerability assessment yang profesional dan terstruktur
